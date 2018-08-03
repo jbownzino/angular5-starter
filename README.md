@@ -1,6 +1,6 @@
-# CallTransparencyAdmin
+# Angular5 Starter
 
-This is the front-end for the Call Transparency Admin Application. This application is written in TypeScript and utilizies Angular 5.
+A simple configuration for Angular5 starter kit -- routing, env variables and everything all hooked up and ready for you to get started.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
